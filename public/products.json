@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Kopi Arabika Premium",
+        "category": "Arabica",
+        "price": 15.00,
+        "weight": "250g",
+        "image": "/images/products/arabika.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 2,
+        "title": "Kopi Robusta Kualitas Tinggi",
+        "category": "Robusta",
+        "price": 12.00,
+        "weight": "500g",
+        "image": "/images/products/robusta.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 3,
+        "title": "Kopi Liberika Langka",
+        "category": "Liberica",
+        "price": 18.00,
+        "weight": "1kg",
+        "image": "/images/products/liberica.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 4,
+        "title": "Kopi Excelsa Eksotis",
+        "category": "Excelsa",
+        "price": 14.50,
+        "weight": "250g",
+        "image": "/images/products/arabika.jpg",
+        "status": "New Arrival"
+    },
+    {
+        "id": 5,
+        "title": "Blend Kopi Nusantara",
+        "category": "Blend",
+        "price": 20.00,
+        "weight": "1kg",
+        "image": "/images/products/arabika.jpg",
+        "status": "New Arrival"
+    },
+    {
+        "id": 6,
+        "title": "Kopi Gayo Aceh",
+        "category": "Arabica",
+        "price": 16.00,
+        "weight": "500g",
+        "image": "/images/products/arabika.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 7,
+        "title": "Kopi Toraja Special",
+        "category": "Arabica",
+        "price": 17.50,
+        "weight": "250g",
+        "image": "/images/products/arabika.jpg",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 8,
+        "title": "Kopi Luwak Asli",
+        "category": "Luwak",
+        "price": 50.00,
+        "weight": "100g",
+        "image": "/images/products/arabika.jpg",
+        "status": "Premium"
+    }
+]
